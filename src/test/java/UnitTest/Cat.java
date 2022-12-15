@@ -8,8 +8,8 @@ import java.util.concurrent.Callable;
 public class Cat {
     @Test
     public void firstTest() {
-    Cat cat = new Cat();
-    String voice ="Мяу";
-    Assertions.assertEquals("Мяу",voice,"Error");
+        Cat cat = new Cat();
+        String voice = "Мяу";
+        Assertions.assertEquals("Мяу", voice, "Error");
     }
-    }
+}
