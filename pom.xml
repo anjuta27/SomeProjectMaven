@@ -31,6 +31,13 @@
             <artifactId>rest-assured</artifactId>
             <version>5.3.0</version>
         </dependency>
+        <!-- https://mvnrepository.com/artifact/com.codeborne/selenide -->
+        <dependency>
+            <groupId>com.codeborne</groupId>
+            <artifactId>selenide</artifactId>
+            <version>6.11.0</version>
+        </dependency>
+
 
 
     </dependencies>
